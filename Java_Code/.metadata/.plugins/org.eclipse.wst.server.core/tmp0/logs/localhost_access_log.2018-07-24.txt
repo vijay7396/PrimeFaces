@@ -1,0 +1,4 @@
+127.0.0.1 - - [24/Jul/2018:23:22:39 -0500] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:23:22:41 -0500] "GET /TestingPrimeFaces/WEB-INF/NewFile.html HTTP/1.1" 404 1047
+127.0.0.1 - - [24/Jul/2018:23:28:59 -0500] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Jul/2018:23:29:00 -0500] "GET /TestingPrimeFaces/WEB-INF/NewFile.xhtml HTTP/1.1" 404 1047
